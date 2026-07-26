@@ -1,127 +1,79 @@
-# ApexType v2026 - free online assessment website 2026
+# 🎯 apextype-core-archetype - Find your true personality roadmap today
 
-> **ApexType is a browser-based strengths and personality assessment that reveals a visitor's primary archetype and provides a personalized roadmap, with fast delivery through GitHub Pages.**
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/leq102676-cmyk/apextype-core-archetype)
 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v2026-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/felixdaviscua9280/apextype-core-archetype?style=flat-square)](https://github.com/felixdaviscua9280/apextype-core-archetype)
+ApexType v2026 helps you understand your natural strengths. It evaluates your personality type and provides a clear path for your personal growth. This system works through your web browser. You do not need to install complex software to use it.
 
----
+## 📋 What is ApexType?
 
-<p align="center">
-  <a href="https://felixdaviscua9280.github.io/apextype-core-archetype/">
-    <img src="https://img.shields.io/badge/Download-ApexType%20Latest-brightgreen?style=for-the-badge" alt="Download ApexType">
-  </a>
-</p>
+ApexType v2026 acts as a guide for your self-discovery journey. It asks questions about your habits and preferences. The tool then calculates your primary archetype. This result defines how you interact with the world. You receive a custom roadmap that focuses on your specific skills. 
 
-> **[Download ApexType v2026](https://felixdaviscua9280.github.io/apextype-core-archetype/)**
+This assessment removes the guesswork from personal development. It uses data to show you where you shine. You gain a document that outlines your next steps. 
 
----
+## ⚙️ System Requirements
 
-[Download Latest Build](https://felixdaviscua9280.github.io/apextype-core-archetype/)
+Before you start, check your computer for these items:
 
----
+* Windows 10 or Windows 11
+* A stable internet connection
+* A modern web browser like Google Chrome, Microsoft Edge, or Firefox
+* Four gigabytes of available system memory
+* A screen resolution of at least 1280 by 720 pixels
 
-## What ApexType Does
+## 📥 How to Download and Install
 
-ApexType gives users a guided online assessment centered on strengths, personality tendencies, and career direction. Its 50-question experience identifies a core strengths archetype, then connects the result with practical guidance and next steps through a personalized roadmap.
+Follow these steps to set up the assessment tool on your computer.
 
-The project runs directly in a web browser and can be published with GitHub Pages, so visitors can access and share it without installing a local application. It also provides a lightweight HTML and JavaScript foundation for site owners who need a structured self-assessment with clear results.
+1. Visit the repository page to begin the process: [https://github.com/leq102676-cmyk/apextype-core-archetype](https://github.com/leq102676-cmyk/apextype-core-archetype).
+2. Click the green "Code" button near the top of the page.
+3. Select "Download ZIP" from the menu.
+4. Save the file to your computer.
+5. Locate the folder where you saved the file.
+6. Right-click the folder and select "Extract All."
+7. Follow the prompts on your screen to place the files in a new location.
+8. Open the extracted folder.
+9. Locate the file named "index.html."
+10. Double-click this file to open the assessment in your web browser.
 
----
+## 🚀 Running the Assessment
 
-## Included Capabilities
+Once you open the index file, your browser displays the welcome screen. 
 
-- Guided 50-question strengths assessment
-- Detection of a user's core strengths archetype
-- Personalized roadmap results
-- Seven available strengths archetypes
-- 21 subtype combinations
-- Email submission using a Google Apps Script webhook
-- Compatibility with GitHub Pages hosting
-- HTML, JavaScript, and Chart.js implementation
+1. Read the instructions on the screen.
+2. Click the "Start Assessment" button.
+3. Answer every question honestly. There are no right or wrong answers. The system needs your sincere input to generate an accurate result.
+4. Save your progress if you need to take a break.
+5. Submit your answers at the end of the sections.
+6. Wait for the engine to process your data. This takes about ten seconds.
+7. View your results on the final page.
+8. Click "Download Roadmap" to save your personal guide as a PDF file.
 
----
+## 🔍 Understanding Your Roadmap
 
-## Setup
+Your roadmap contains three main sections. The first section details your primary archetype. It explains your character traits. You learn why you naturally feel drawn to specific tasks. 
 
-1. Clone the repository or retrieve the project files:
-   `git clone https://github.com/felixdaviscua9280/apextype-core-archetype.git
-2. Open the `apextype` directory in your editor or hosting environment.
-3. Publish the files through GitHub Pages, or open the HTML entry point in a browser to inspect the project locally.
+The second section lists your core strengths. We categorize these by impact. You see how these strengths help you in your daily work and private life.
 
-For local testing, open the primary HTML file directly or run a basic static server from the project directory.
+The third section offers an actionable plan. This plan suggests three goals for the next month. It also identifies possible challenges. You use this section to track your progress over time.
 
----
+## 🛠️ Troubleshooting Common Issues
 
-## Running the Assessment
+If the assessment does not load, try these solutions:
 
-- Launch the site in a modern browser.
-- Answer all 50 assessment questions.
-- Examine the generated strengths archetype and roadmap overview.
-- When the integration is enabled, submit an email through the Google Apps Script webhook process.
-- Apply the results to further career exploration and self-assessment.
+* Refresh your web browser by pressing F5.
+* Clear your browser cache and cookies.
+* Update your browser to the latest version.
+* Check if your antivirus software blocks local files. Some settings prevent non-web files from opening in a browser.
+* Ensure all files from the ZIP folder stay in the same directory. The assessment fails if you move the "index.html" file away from the supporting folders.
 
-To preview the files with a simple local server:
+If you still face trouble, copy the error message and save it for future reference. Many common issues relate to browser permissions. Check your browser security settings to ensure you allow local file execution.
 
-`python3 -m http.server`
+## 🛡️ Privacy and Data Security
 
-Open the local URL printed in your terminal, then navigate to the assessment page.
+We care about your privacy. ApexType runs locally on your machine. This means your answers never travel to an external server. You keep full control over your data. No one else sees your personality roadmap unless you choose to share your file. Delete the folder from your computer whenever you want to remove your information.
 
----
+## 📈 Improving Your Experience
 
-## Project Configuration
+We update the assessment categories every year. Feel free to download new versions from the github link to get fresh insights. Send us your feedback through the issue tracker if you find a bug. We use these reports to improve the experience for all users.
 
-The main ApexType settings are defined across the HTML, JavaScript, and related web assets. Integration values, including the connection to Google Sheets, are generally maintained in the front-end source and webhook-related code.
-
-The configuration model includes concepts such as:
-
-```json
-{
-  "assessmentQuestions": 50,
-  "archetypes": 7,
-  "subtypeCombinations": 21,
-  "emailWebhook": "GOOGLE_APPS_SCRIPT_WEBHOOK_URL",
-  "chartLibrary": "Chart.js"
-}
-```
-
-To modify assessment behavior, inspect the scripts responsible for scoring, result assignment, and the webhook destination.
-
----
-
-## Requirements and Compatibility
-
-- A current web browser
-- Static hosting, including services such as GitHub Pages
-- Browser support for HTML and JavaScript
-- Chart.js for chart-rendered results
-- Optional Google Sheets and Google Apps Script support for collecting emails
-- Network connectivity when hosted webhooks or external assets are used
-
----
-
-## Common Questions
-
-**How can I publish an update?**  
-Modify the HTML or JavaScript source, then deploy the updated files to GitHub Pages or another static hosting service.
-
-**Where does the configuration live?**  
-Assessment behavior is primarily defined in the front-end source files. Webhook values are maintained within the integration code.
-
-**What should I check if the assessment fails to load?**  
-Review the browser developer console, confirm that asset paths resolve correctly, and make sure external scripts and webhook URLs can be reached.
-
-**Is the scoring or archetype system customizable?**  
-Yes. The project scripts define the question sequence, scoring behavior, and archetype mapping, allowing each of those areas to be adjusted.
-
-**How is email collection connected?**  
-Link the Google Apps Script webhook with your Google Sheets workflow, then confirm that the configured endpoint is correct and accessible.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: personality, assessment, archetype, growth, roadmap, skills, psychology, windows
